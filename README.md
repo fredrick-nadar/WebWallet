@@ -291,9 +291,7 @@ Shoutout to these absolute legends:
 ## 🔗 Links
 
 - 🌐 **Live Demo**: [Coming Soon™]
-- 📧 **Contact**: [Open an Issue](../../issues)
-- 🐦 **Twitter**: [@fredrick-nadar](https://twitter.com/fredrick-nadar)
-- 💼 **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- 💼 **Portfolio**: https://fredrickdev.vercel.app
 
 ---
 
